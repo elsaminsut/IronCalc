@@ -41,6 +41,7 @@ This differs from using `INT(n/d)` when the quotient is negative, because `INT` 
 [See some examples in IronCalc](https://app.ironcalc.com/?example=quotient).
 -->
 ## Links
+* For more information about the quotient, visit Wikipedia's [Quotient](https://en.wikipedia.org/wiki/Quotient) page.
 * See also IronCalc's [MOD](/functions/math_and_trigonometry/mod) function.
 * Visit Microsoft Excel's [QUOTIENT function](https://support.microsoft.com/en-gb/office/quotient-function-9f7bf099-2a18-4282-8fa4-65290cc99dee) page.
 * Both [Google Sheets](https://support.google.com/docs/answer/3093436) and [LibreOffice Calc](https://wiki.documentfoundation.org/Documentation/Calc_Functions/QUOTIENT) provide versions of the QUOTIENT function.
